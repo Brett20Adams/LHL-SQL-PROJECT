@@ -3,11 +3,11 @@
 ## Project/Goals and Process
 My goals are to understand the dataset as completely as possible to provide the best answer possible for the questions. It is important to spend the majority of the time for this exercise exploring the entire dataset and understanding how everything is connected, making educated guesses, and planning out how to address the largest issues first. My main goals for this project are:
 
-    1. Import the data and view it from many angles by querying each categorical column to see how columns interact with one another. This is vital and necessary because there is no readme file explaining what each column contains.
+1. Import the data and view it from many angles by querying each categorical column to see how columns interact with one another. This is vital and necessary because there is no readme file explaining what each column contains.
 
-    2. Once each table is understood by itself, the next logical step is to understand if tables interact with one another, and how. This is necessary to establish and separate the fact table and the dimension tables, or determine if tables provided are queries themselves.
+2. Once each table is understood by itself, the next logical step is to understand if tables interact with one another, and how. This is necessary to establish and separate the fact table and the dimension tables, or determine if tables provided are queries themselves.
 
-    3. Lastly, I must work backwards from the questions to properly clean and query the tables to arrive at the most logical answer. This requires plainly commenting code blocks to describe exactly what is being done and why.
+3. Lastly, I must work backwards from the questions to properly clean and query the tables to arrive at the most logical answer. This requires plainly commenting code blocks to describe exactly what is being done and why.
 
 ## Results
 
